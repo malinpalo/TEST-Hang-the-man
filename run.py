@@ -1,3 +1,7 @@
-# Your code goes here.
-# You can delete these comments, but do not change the name of this file
-# Write your code to expect a terminal of 80 characters wide and 24 rows high
+import random # generates random options
+from words import hidden_words # imports hidden_words list from word.py
+
+print("Welcome to the game of hang the man! ")
+print("------------------------------------")
+print("Rules to apply")
+print("------------------------------------")
